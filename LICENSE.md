@@ -1,4 +1,4 @@
-
+Enhance The Unarchiver for macOS with The Unarchiver for macOS premium Plugin - privacy-protection and network-speed, the #1 plugin. Includes privacy-protection and network-speed
 
 
 
